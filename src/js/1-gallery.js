@@ -49,7 +49,7 @@ const images = [
       'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272__340.jpg',
     original:
       'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272_1280.jpg',
-    description: 'Alpine Spring Meadows'
+    description: 'Alpine Spring Meadows',
   },
   {
     preview:
